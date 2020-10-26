@@ -5,7 +5,8 @@ __________________________________
 
 - 📫 How to reach me: contact@deniscimic.info or <a href=https://www.linkedin.com/in/denis-cimic/ target="blank"> <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="denis LinkedIn" height="20" width="20" /> </a>
 - 💬 Ask me about any of my projects
-  
+
+<img src="background.gif"  width="100%">
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
