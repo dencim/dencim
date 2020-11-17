@@ -10,8 +10,9 @@ I have used my knowledge to develop many personal projects from <b>Python Comput
 <img align="right" src="background.gif"  width="50%" height="auto"><br><br>
 
 - 📫 How to reach me: contact@deniscimic.info or <a href=https://www.linkedin.com/in/denis-cimic/ target="blank"> <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="denis LinkedIn" height="20" width="20" /> </a>
-- 💬 Ask me about any of my projects!
+- 👯 Executive @ OTU Computer Science Society
 - 🌱 I’m currently learning Machine Learning & Computer Vision
+- 💬 Ask me about any of my projects!
 
 
 <!--
