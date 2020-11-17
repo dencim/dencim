@@ -7,11 +7,13 @@ I followed my passion into a <b>Computer Science</b> Program at <b>Ontario Tech 
 
 I have used my knowledge to develop many personal projects from <b>Python Computer Vision Applications</b> to <b>Java Socket Applications</b> to <b>Full Stack Web Applications (MERN stack) </b>& many more as well as many more to come <br><br>
 
+<img align="right" src="background.gif"  width="50%" height="auto"><br><br>
+
 - 📫 How to reach me: contact@deniscimic.info or <a href=https://www.linkedin.com/in/denis-cimic/ target="blank"> <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="denis LinkedIn" height="20" width="20" /> </a>
 - 💬 Ask me about any of my projects!
 - 🌱 I’m currently learning Machine Learning & Computer Vision
 
-<img src="background.gif"  width="100%" height="400px">
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
