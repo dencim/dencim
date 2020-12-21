@@ -4,7 +4,6 @@
 
 I started my programming journey 7 years ago in early highschool developing <b>Android</b> games in Unity<b>(C#)</b> and publishing them to the Play Store and
 I followed my passion into a <b>Computer Science</b> Program at <b>Ontario Tech University</b>. I am currently in third year and am thankful for the wide range of knowledge and guidance given to me by members of the faculty. 
-<!--They got me passionate about subjects I did not even know existed when I chose to enroll!<br><br>-->
 
 I have used my knowledge to develop many personal projects from <b>Python Computer Vision Applications</b> to <b>Java Socket Applications</b> to <b>Full Stack Web Applications (MERN stack) </b>& many more as well as many more to come <br>
 
@@ -12,7 +11,7 @@ I have used my knowledge to develop many personal projects from <b>Python Comput
 
 - 📫 How to reach me: contact@deniscimic.info or <a href=https://www.linkedin.com/in/denis-cimic/ target="blank"> <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="denis LinkedIn" height="20" width="20" /> </a>
 - 👯 Executive @ OTU Computer Science Society
-- 🌱 I’m currently learning Machine Learning & Computer Vision
+- 🌱 I’m currently learning Functional Programming & Machine Learning
 - 💬 Ask me about any of my projects!
 
 
