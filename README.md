@@ -8,9 +8,6 @@
 
 - 📫 How to reach me: denis.cimic@outlook.com or <a href=https://www.linkedin.com/in/denis-cimic/ target="blank"> <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="denis LinkedIn" height="20" width="20" /> </a>
 - 👯 Executive @ OTU Computer Science Society
-- 🌱 I’m currently learning Functional Programming & Machine Learning
-- 💬 Ask me about any of my projects!
-
 
 <!--
 - 🔭 I’m currently working on ...
